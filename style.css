@@ -1,0 +1,16 @@
+body{
+    margin: 0 auto;
+    max-width: 1300px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+}
+.car{
+    color: cadetblue;
+    font-size: 26px;
+    text-align: center;
+    border: 1px solid cadetblue;
+    padding: 20px 30px;
+    border-radius: 15px;
+}
